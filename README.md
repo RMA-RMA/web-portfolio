@@ -5,9 +5,6 @@
 JAVA 언어 기반으로 MySQL 데이터베이스를 이용하여 Spring으로 구현하였습니다. 
 </h3>
 
-
-
-
 <h2>home</h2>
 <img src="img/java1.png" alt="">
 
